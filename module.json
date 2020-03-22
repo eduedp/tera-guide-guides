@@ -1,0 +1,13 @@
+{
+    "name": "tera-guide-guides",
+    "author": "edu",
+    "description": "Updated guides for tera-guide mod",
+    "options": {
+        "niceName": "Tera Guide Guides"
+    },
+    "servers": ["https://raw.githubusercontent.com/eduedp/tera-guide-guides/master/"],
+    "dependencies": {
+        "tera-guide": "https://raw.githubusercontent.com/Kaseaa/tera-guide/master/"
+    },
+    "disableAutoUpdate": false
+}
