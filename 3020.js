@@ -68,7 +68,6 @@ module.exports = {
     's-3020-2200-1108-0': [{'type': 'text', 'sub_type': 'notification', 'message': ' Front Stun'}],
     's-3020-2200-2108-0': [{'type': 'text', 'sub_type': 'notification', 'message': ' Front Stun'}],
     // Jump Mech
-    'dm-0-0-30209201': [{'type': 'text', 'sub_type': 'notification', 'message': ' Jump Waves'}],
     's-3020-2200-1135-0': [{'type': 'text', 'sub_type': 'notification', 'message': ' Jump Waves'}],
     's-3020-2200-2135-0': [{'type': 'text', 'sub_type': 'notification', 'message': ' Jump Waves'}],
 
